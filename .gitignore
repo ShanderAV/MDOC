@@ -29,3 +29,7 @@ vite.generated.ts
 webpack.generated.js
 
 .DS_Store
+
+# Файлы с секретами и локальными настройками
+application-dev.properties
+.env
